@@ -26,6 +26,10 @@ class App extends Component {
     );
   }
 
+ /* Code reference
+  * https://github.com/udacity/ud864/blob/master/Project_Code_13_DevilInTheDetailsPlacesDetails.html
+  * https://github.com/StamatisDeli/Neighborhood-map/blob/master/src/App.js
+  */
   drawMap() {
     let self = this;
 
