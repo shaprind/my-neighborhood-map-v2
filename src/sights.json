@@ -1,0 +1,20 @@
+[
+{"name":"Saint Alexander Nevski Cathedral", "location":{"lat": 42.695811, "lng": 23.3329}, "id":"ChIJmeSHJnGFqkARUFPopvNwkwI"},
+{"name":"St. St. Cyril and Methodius Library", "location":{"lat": 42.694883, "lng": 23.335424}, "id":"ChIJ5cMo-HaFqkARbP4bqZR1Wdc"},
+{"name":"Sofia University St. Kliment Ohridski", "location":{"lat": 42.693508, "lng": 23.335424},"id":"ChIJE6JlK3SFqkARtuWiys_k6Yg"},
+{"name":"National Assembly of the Republic of Bulgaria", "location":{"lat": 42.693508, "lng": 23.33264},"id":"ChIJlQIMBHSFqkARpwHmXSeMJNw"},
+{"name":"St. Sophia Church", "location":{"lat": 42.69652, "lng": 23.331466},"id":"ChIJW-aQ_XCFqkAR-Jp0kkiUOPQ"},
+{"name":"Ivan Vazov National Theater", "location":{"lat": 42.694387, "lng": 23.326207},"id":"ChIJfWBeC3KFqkARsLEHc51Ke_0"},
+{"name":"University Botanical Garden", "location":{"lat": 42.697055, "lng": 23.334555},"id":"ChIJ39Qer3CFqkARqmoFWPm-CGI"},
+{"name":"Bulgarian Academy of Science", "location":{"lat": 42.69452, "lng": 23.33214},"id":"ChIJxVoLTXGFqkARAdmRVpvwPe8"},
+{"name":"National Art Gallery", "location":{"lat": 42.696496, "lng": 23.327045},"id":"ChIJ4cpgw3aFqkARgBTycXrNsJM"},
+{"name":"St. George Rotunda", "location":{"lat": 42.696912, "lng": 23.322902},"id":"ChIJSfdijW6FqkARUx-EskTpUiU"},
+{"name":"St. Nedelya Cathedral Church", "location":{"lat": 42.696652, "lng": 23.321269},"id":"ChIJlwUjpW6FqkAROAQGafVgdMY"},
+{"name":"St. Petka Church", "location":{"lat": 42.697884, "lng": 23.322189},"id":"EkZidWxldmFyZCAiS255YWdpbnlhIE1hcmlhIEx1aXphIiAyLCAxMDAwIFNvZmlhIENlbnRlciwgU29maWEsIEJ1bGdhcmlhIhoSGAoUChIJuyzoK2-FqkARgA6wspvRpQYQAg"},
+{"name":"Regional History Museum", "location":{"lat": 42.696376, "lng": 23.323828},"id":"ChIJo7TpQG-FqkARwoEBkNKy1i0"},
+{"name":"Palace of Justice", "location":{"lat": 42.695435, "lng": 23.320022},"id":"ChIJPTLw9WuFqkARfoNc7ioN8Dk"},
+{"name":"National Palace of Culture", "location":{"lat": 42.684725, "lng": 23.318938},"id":"ChIJu46vtg-FqkARuVUJhrcBo4c"},
+{"name":"Earth and People National Museum", "location":{"lat": 42.680157, "lng": 23.320845},"id":"ChIJFxFeiAaFqkAR8iv3zO2ccSk"},
+{"name":"Eagle Bridge", "location":{"lat": 42.690558, "lng": 23.337436},"id":"ChIJFyN9AnSFqkAR6jJfNUAv4GI"},
+{"name":"Lion Bridge", "location":{"lat": 42.705106, "lng": 23.323929},"id":"ChIJI3fC1GaFqkARDWhDgrskzGs"}
+]
